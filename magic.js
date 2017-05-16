@@ -1,3 +1,8 @@
-const _ = require('lodash');
+const person = {
+  name:     'chris',
+  username: 'chrisoncode'
+};
 
-_.debounce()
+console.log(person.name);
+
+const myVar = 'here';
