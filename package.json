@@ -1,0 +1,24 @@
+{
+  "name": "vscode-course",
+  "version": "1.0.0",
+  "description": "Code for the Scotch School course by @christoncode",
+  "main": "magic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clockworkunltd/vscode-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clockworkunltd/vscode-course/issues"
+  },
+  "homepage": "https://github.com/clockworkunltd/vscode-course#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
